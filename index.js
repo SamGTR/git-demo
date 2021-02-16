@@ -1,1 +1,1 @@
-console.log("Hello from Me")
+console.log("variable")
